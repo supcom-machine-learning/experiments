@@ -13,8 +13,11 @@ As a motivation to read the paper, here is a quote of the abstract:
 
  - [The shipwreck of the Minotaur (1793)](https://en.wikipedia.org/wiki/HMS_Minotaur_(1793))
 
- <img src="https://github.com/supcom-machine-learning/experiments/blob/master/artistic_neural_networks/paintings/sidi-bou-picasso-style.png" height="250px">
+ <img src="https://github.com/supcom-machine-learning/experiments/blob/master/artistic_neural_networks/original/shipwreck.jpg" height="250px">
+ <img src="https://github.com/supcom-machine-learning/experiments/blob/master/artistic_neural_networks/paintings/Minotaur-style.png" height="250px">
 
  - [Picasso's 1907 self-portrait](http://www.wikiart.org/en/pablo-picasso/self-portrait-1907)
-  
- <img src="https://github.com/supcom-machine-learning/experiments/blob/master/artistic_neural_networks/paintings/Minotaur-style.png" height="250px">
+
+
+ <img src="https://github.com/supcom-machine-learning/experiments/blob/master/artistic_neural_networks/original/picasso_portrait.jpg" height="250px">
+ <img src="https://github.com/supcom-machine-learning/experiments/blob/master/artistic_neural_networks/paintings/sidi-bou-picasso-style.png" height="250px">
